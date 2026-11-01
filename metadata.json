@@ -1,0 +1,6 @@
+{
+  "name": "meku Inventory",
+  "description": "Professional mobile-first inventory management system for meku Computers.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
